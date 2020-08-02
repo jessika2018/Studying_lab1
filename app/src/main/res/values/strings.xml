@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Studying_lab1</string>
+    <string name="message">t</string>
+    <string name="subject">e</string>
+    <string name="to">a</string>
+    <string name="send">z</string>
+    <string name="article_name">article_name</string>
+    <string name="delete">Delete</string>
+    <string name="Edit">Save</string>
+</resources>
